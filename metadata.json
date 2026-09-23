@@ -1,0 +1,6 @@
+{
+  "name": "Painel de Auditoria de NFe",
+  "description": "Um painel para fazer upload, visualizar e filtrar arquivos XML de Notas Fiscais eletrônicas (NFe) para auditoria. Permite a filtragem por série e natureza da operação, e totaliza os valores das notas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
